@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>web-page</title>
+    <body>
+        <p style="background-color: blueviolet;"This is html page </p>
+            <p style="font-size: 250%;"><sup><q>this is another paragraph,
+                <br> we are learning about html 
+                </html>
+            </q></sup></p>
+            <a href="https://www.google.com/"target="_blank">Google</a><br>
+            <a href=""mail to:test@example.com">Email</a>
+            <pre style="background-color: black green;">
+        A SYMBOL OF LOVE,THAT'S SURE
+
+        </pre>
+    </body>
+</head>
+</html>
